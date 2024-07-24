@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://junzhu.github.io/sitemap.xml
+Sitemap: https://junnzhuu.github.io/sitemap.xml
