@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://junzhu.github.io/sitemap.xml
